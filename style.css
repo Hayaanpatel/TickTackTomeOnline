@@ -1,0 +1,13 @@
+.startlink {
+    color: black;
+    text-decoration: none;
+    color: rgb(0, 255, 221);
+    font-size: 100px;
+}
+.startbutton {
+  background-color: rgb(0, 0, 0);
+  border-width: 1px;
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+}
